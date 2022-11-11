@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\aquivos_c#\bin\Debug\net7.0\aquivos_c#.exe
+C:\Users\Pedro\Documents\aquivos_c#\bin\Debug\net7.0\aquivos_c#.deps.json
+C:\Users\Pedro\Documents\aquivos_c#\bin\Debug\net7.0\aquivos_c#.runtimeconfig.json
+C:\Users\Pedro\Documents\aquivos_c#\bin\Debug\net7.0\aquivos_c#.dll
+C:\Users\Pedro\Documents\aquivos_c#\bin\Debug\net7.0\aquivos_c#.pdb
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.AssemblyInfo.cs
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.dll
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\refint\aquivos_c#.dll
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.pdb
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\aquivos_c#.genruntimeconfig.cache
+C:\Users\Pedro\Documents\aquivos_c#\obj\Debug\net7.0\ref\aquivos_c#.dll
