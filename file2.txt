@@ -2,4 +2,8 @@ FILE2:
 Good Morning!
 Good Afternoon!
 Good Night!
+
+FILE1:
+GOOD MORNING!
+GOOD AFTERNOON!
     
